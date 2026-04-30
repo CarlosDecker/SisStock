@@ -36,9 +36,4 @@ O **SisStock** é um sistema desktop completo de gerenciamento de estoque e Fren
 
 ## 📝 Autor
 
-Desenvolvido por **Carlos Decker**. 
-Focado em transformar processos complexos de Sistemas de Informação em ferramentas simples e eficientes.
-
----
-
-> **Nota:** Este software foi desenvolvido como solução prática para otimização de estoque real, aplicando conceitos de Teoria Geral dos Sistemas (TGS) e BPM CBOK.
+Desenvolvido por **Carlos Decker**.
