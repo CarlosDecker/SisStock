@@ -1,0 +1,15 @@
+# Pastas de cache do Python
+__pycache__/
+
+# Pastas e arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Banco de dados (para não subir os dados reais da loja)
+*.db
